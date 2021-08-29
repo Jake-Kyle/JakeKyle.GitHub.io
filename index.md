@@ -1,12 +1,12 @@
 ## Welcome to my GitHub Page!
 
 A dataset that I find highly interesting and valid in this day and age is the COVID one from the _awesome-datascience_ GitHub.
-The **URL** for downloading the data can be found at: _https://datahub.io/core/covid-19_. This data can be analyzed to see what
+The **URL** for downloading the data can be found at: [_this link_](https://datahub.io/core/covid-19). This data can be analyzed to see what
 areas of the world are being most effected by COVID, and possibly why (depending on vaccination records and such).
 
-My selected book would be Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow Hands-On Machine Learning with 
-Scikit-Learn, Keras, and TensorFlow, 2nd Edition [Book] (oreilly.com) by Aurelien Geron (O’Reilly books). The **URL** for
-this text can be found at: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/. This book could 
+My selected book would be **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow Hands-On Machine Learning with 
+Scikit-Learn, Keras, and TensorFlow, 2nd Edition [Book] (oreilly.com) by Aurelien Geron (O’Reilly books).** The **URL** for
+this text can be found at: [_this link_](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). This book could 
 potentially teach how to do machine learning for data analytics with not only one, but three popular ML tools that are 
 commonplace in Big Data projects.
 ```
