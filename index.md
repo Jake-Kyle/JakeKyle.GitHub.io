@@ -8,9 +8,9 @@ My selected book would be Hands-On Machine Learning with Scikit-Learn, Keras & T
 Scikit-Learn, Keras, and TensorFlow, 2nd Edition [Book] (oreilly.com) by Aurelien Geron (O’Reilly books). The **URL** for
 this text can be found at: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/. This book could 
 potentially teach how to do machine learning for data analytics with not only one, but three popular ML tools that are 
-commonplace in Big Data projects. 
+commonplace in Big Data projects.
+```
 Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+```
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jake-Kyle/JakeKyle.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
