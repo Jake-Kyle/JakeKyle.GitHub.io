@@ -1,8 +1,5 @@
 ## Welcome to my GitHub Page!
 
-You can use the [editor on GitHub](https://github.com/Jake-Kyle/JakeKyle.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-
 ```markdown
 A dataset that I find highly interesting and valid in this day and age is the COVID one from the _awesome-datascience_ GitHub.
 The **URL** for downloading the data can be found at: _https://datahub.io/core/covid-19_. This data can be analyzed to see what
