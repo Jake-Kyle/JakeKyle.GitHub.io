@@ -1,14 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page!
 
 You can use the [editor on GitHub](https://github.com/Jake-Kyle/JakeKyle.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+A dataset that I find highly interesting and valid in this day and age is the COVID one from the _awesome-datascience_ GitHub.
+The **URL** for downloading the data can be found at: _https://datahub.io/core/covid-19_. This data can be analyzed to see what
+areas of the world are being most effected by COVID, and possibly why (depending on vaccination records and such).
+
+My selected book would be Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow Hands-On Machine Learning with 
+Scikit-Learn, Keras, and TensorFlow, 2nd Edition [Book] (oreilly.com) by Aurelien Geron (O’Reilly books). The **URL** for
+this text can be found at: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/. This book could 
+potentially teach how to do machine learning for data analytics with not only one, but three popular ML tools that are 
+commonplace in Big Data projects. 
 Syntax highlighted code block
 
 # Header 1
