@@ -1,6 +1,5 @@
 ## Welcome to my GitHub Page!
 
-```markdown
 A dataset that I find highly interesting and valid in this day and age is the COVID one from the _awesome-datascience_ GitHub.
 The **URL** for downloading the data can be found at: _https://datahub.io/core/covid-19_. This data can be analyzed to see what
 areas of the world are being most effected by COVID, and possibly why (depending on vaccination records and such).
@@ -25,7 +24,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
